@@ -14,7 +14,7 @@
     "discord": {
         "token": "",
         "default_prefix": {
-            "enable": false,
+            "enable": true,
             "prefix": "col!"
         }
     }
